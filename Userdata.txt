@@ -1,1 +1,2 @@
 get user data..
+Name, mobile no, city and address
